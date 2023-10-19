@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saurav-Raj
-- 👀 I’m interested in coding,developing
-- 👀 I’m Working on React
+- 👀 I’m interested in coding, developing
+- 👀 I’m Working on React JS / React Native
 - 🌱 I’m currently working for Suntech Global.
-- 💞️ I’m looking to collaborate on website project
+- 💞️ I’m looking to collaborate on a website project
 - 📫 saurav98raj@gmail.com
 
 <!---
