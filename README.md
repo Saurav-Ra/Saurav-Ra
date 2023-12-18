@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saurav-Raj
-- 👀 I’m interested in coding, developing
+- 👀 I’m interested in Web design, Web/Mobile development
 - 👀 I’m Working on React JS / React Native
 - 🌱 I’m currently working for Suntech Global.
 - 💞️ I’m looking to collaborate on a website project
